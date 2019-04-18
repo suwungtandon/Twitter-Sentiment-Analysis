@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Twitter Sentiment Analysis</title>
+		<title>Twitter Sentiment Analyzer</title>
 		<meta charset="utf-8" />
 
 		<link rel="shortcut icon" href="{{ url_for('static',filename='App-Twitter-icon.png') }}" />
@@ -32,9 +32,11 @@
 			<section id="header">
 				<div class="inner">
 					<span class="icon major fa-twitter"></span>
-					<h1>Twitter Sentiment Analysis</h1>
-					<p>A model that will determine the tone (neutral, positive, negative) </br>
-					of the tweets belonging to the searched query. </p>
+					<h1>Twitter Sentiment Analyzer</h1>
+					<p>Web Aplikasi untuk analisa opini tweet dengan menampilkan nilai stigma (neutral, positive, negative)</br>
+				yag dihasilkan dari search query API twitter</p>
+					<p>Teknologi menggunakan python flask, nltk, textblob dan tweepy untuk mengakses data API dari twitter</br>
+					</p>
 					<ul class="actions">
 						<form name="myform" action="javascript:handleIt()">
 							<input id="query" class="button1" />
