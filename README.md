@@ -6,5 +6,5 @@ View Live @ [https://trf-twitter-sentiment-analyzer.herokuapp.com/](https://trf-
 
 [![](https://github.com/suwungtandon/Twitter-Sentiment-Analysis/blob/master/imgaes/Screenshot(33).png)](https://github.com/suwungtandon/Twitter-Sentiment-Analysis/blob/master/imgaes/Screenshot(33).png)
 
-[![](https://github.com/suwungtandon/Twitter-Sentiment-Analysis/blob/master/imgaes/Screenshot(34).png)](https://github.com/suwungtandon/Twitter-Sentiment-Analysis/blob/master/imgaes/Screenshot(34).png)
+[![](imgaes/Screenshot (34).png)](imgaes/Screenshot (34).png)
 
